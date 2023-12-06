@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-06T10:14:36.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="fRDxXJae9mBBsd0CQTGn" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-06T10:18:11.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qif4kQGdiiZBZFmZCX0U" version="22.1.5" type="github">
   <diagram name="Page-1" id="a7Ri9mii3zfMXE8LAgiD">
     <mxGraphModel dx="882" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,10 +52,15 @@
         <mxCell id="dgSH4MTo-NtUrPTSyCus-18" value="+efficaciteContre(Type autreType): double" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="dgSH4MTo-NtUrPTSyCus-15">
           <mxGeometry y="128" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dgSH4MTo-NtUrPTSyCus-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dgSH4MTo-NtUrPTSyCus-15" target="dgSH4MTo-NtUrPTSyCus-2">
+        <mxCell id="dgSH4MTo-NtUrPTSyCus-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dgSH4MTo-NtUrPTSyCus-2" target="dgSH4MTo-NtUrPTSyCus-15">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="280" y="250" as="sourcePoint" />
+            <mxPoint x="260" y="260" as="sourcePoint" />
             <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgSH4MTo-NtUrPTSyCus-20" value="1..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dgSH4MTo-NtUrPTSyCus-19">
+          <mxGeometry x="0.8221" y="-4" relative="1" as="geometry">
+            <mxPoint x="-5" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
